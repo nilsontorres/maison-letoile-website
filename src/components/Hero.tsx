@@ -5,7 +5,7 @@ import heroDress from "@/assets/hero-dress-landscape.jpg";
 const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center bg-background">
-      <div className="container mx-auto px-6 lg:px-12 pt-4">
+      <div className="container mx-auto px-6 lg:px-12 pt-7">
         <div className="max-w-4xl mx-auto text-center space-y-12 animate-fade-in">
           {/* Logo */}
           <img 
