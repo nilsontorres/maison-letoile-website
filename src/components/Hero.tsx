@@ -11,7 +11,7 @@ const Hero = () => {
           <img 
             src={logo} 
             alt="Maison L'étoile" 
-            className="h-10 lg:h-12 w-auto mx-auto"
+            className="h-8 lg:h-10 w-auto mx-auto"
           />
           
           {/* Headline */}
