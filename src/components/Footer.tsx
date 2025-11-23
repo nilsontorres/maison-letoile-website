@@ -8,7 +8,7 @@ const Footer = () => {
           <img 
             src={logo} 
             alt="Maison L'étoile" 
-            className="h-12 w-auto opacity-80"
+            className="h-8 w-auto opacity-80"
           />
           
           <nav className="flex flex-wrap justify-center gap-6 text-sm">
