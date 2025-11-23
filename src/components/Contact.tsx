@@ -25,8 +25,7 @@ const Contact = () => {
             </Button>
             <Button 
               size="lg"
-              variant="outline"
-              className="border-2 border-primary-foreground hover:bg-primary-foreground hover:text-primary transition-colors duration-300"
+              className="bg-primary-foreground text-primary hover:bg-accent hover:text-accent-foreground transition-colors duration-300"
             >
               Falar com Especialista
             </Button>
